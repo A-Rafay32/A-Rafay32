@@ -1,9 +1,13 @@
 # Hi, I am Abdul Rafay
 
-### Mobile Application Developer | Android & IOS
+## Mobile Application Developer | Android & IOS
 
+..
+..
+..
 
-## Find me around the web 🌎: 
+### Find me around the web 🌎: 
+
 <a href="https://www.linkedin.com/in/abdul-rafay-6a9611253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rafay-6a9611253" height="30" width="40" /></a> 
 
 </p>
