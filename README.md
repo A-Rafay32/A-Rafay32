@@ -2,9 +2,6 @@
 
 ## Mobile Application Developer | Android & IOS
 
-..
-..
-..
 
 ### Find me around the web 🌎: 
 
