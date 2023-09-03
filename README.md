@@ -5,7 +5,8 @@ A Flutter developer practising cross platform mobile app deveopment who is commi
 Let's connect and discuss how I can help bring your mobile app vision to life!
 
 ### Explore my work:
-<img src="https://github.com/A-Rafay32/A-Rafay32/assets/113136294/d83945d2-d291-4840-b4ae-54f34b8ccaf5" >
+
+https://github.com/A-Rafay32/A-Rafay32/assets/113136294/ddc8ef50-9abe-4516-8f31-598436e6e31c
 
 
 
