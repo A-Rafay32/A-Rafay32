@@ -1,10 +1,10 @@
-# Hi, I am Abdul Rafay
+### Hi, I am Abdul Rafay
 
 A Flutter developer practising cross platform mobile app deveopment who is commited to clean code ,elegants UIs and problem solving
 
 Let's connect and discuss how I can help bring your mobile app vision to life!
 
-### Explore my work:
+#### Explore my work:
 ![Thesaurus App](https://github.com/A-Rafay32/A-Rafay32/assets/113136294/1148e5e5-a16d-4735-ac39-4bd9aff2a59e)
 
 
@@ -13,12 +13,12 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 
 
 
-### Find me around the web 🌎: 
+#### Find me around the web 🌎: 
 
 <a href="https://www.linkedin.com/in/abdul-rafay-6a9611253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rafay-6a9611253" height="30" width="40" /></a> 
 
 </p>
-<h3 align="left">Languages and Tools:</h3> 
+<h4 align="left">Languages and Tools:</h4> 
 <p align="left">  
  
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
