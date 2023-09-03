@@ -1,6 +1,13 @@
 # Hi, I am Abdul Rafay
 
-## Mobile Application Developer | Android & IOS
+ ...A Flutter developer practising cross platform mobile app deveopment who is commited to clean code ,elegants UIs and problem solving
+
+ ...Let's connect and discuss how I can help bring your mobile app vision to life!
+
+### Explore my work:
+<img src="https://github.com/A-Rafay32/A-Rafay32/assets/113136294/d83945d2-d291-4840-b4ae-54f34b8ccaf5" height = "450" width = "200">
+
+
 
 
 ### Find me around the web 🌎: 
