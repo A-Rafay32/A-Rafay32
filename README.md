@@ -1,6 +1,6 @@
 ### Hi, I am Abdul Rafay
 
-A Flutter developer practising cross platform mobile app deveopment who is commited to clean code ,elegants UIs and problem solving
+A Flutter developer practising cross platform mobile app development who is committed to clean code ,elegants UIs and problem solving
 
 Let's connect and discuss how I can help bring your mobile app vision to life!
 
