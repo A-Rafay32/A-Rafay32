@@ -22,10 +22,6 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 
 
 
-#### Find me around the web 🌎: 
-
-<a href="https://www.linkedin.com/in/abdul-rafay-6a9611253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rafay-6a9611253" height="30" width="40" /></a> 
-
 </p>
 <h4 align="left">Languages and Tools:</h4> 
 <p align="left">  
