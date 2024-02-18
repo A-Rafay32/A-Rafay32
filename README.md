@@ -19,10 +19,9 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 
 
 
-</p>
-<h4 align="left">Connect with me:</h4> 
-<p align="left">  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abdul-rafay-6a9611253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaryab-naqvi-069391249" height="30" width="40" /></a>
 </p>
 
 
