@@ -23,7 +23,7 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 <h4 align="left">Connect with me:</h4> 
 <p align="left">  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-
+</p>
 
 
 
