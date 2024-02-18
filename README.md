@@ -5,18 +5,14 @@ A Flutter developer practising cross platform mobile app development who is comm
 Let's connect and discuss how I can help bring your mobile app vision to life!
 
 #### Explore my work:
-![Thesaurus App](https://github.com/A-Rafay32/A-Rafay32/assets/113136294/1148e5e5-a16d-4735-ac39-4bd9aff2a59e)
-
-
-
+![real estate app demo](https://github.com/A-Rafay32/A-Rafay32/assets/113136294/b62d6d33-f2a5-489a-846e-f57a1ee3f99e)
 ![Quotes](https://github.com/A-Rafay32/A-Rafay32/assets/113136294/ba212941-2d9b-4559-a280-c1b082b076a4)
-
-
+![Thesaurus App](https://github.com/A-Rafay32/A-Rafay32/assets/113136294/1148e5e5-a16d-4735-ac39-4bd9aff2a59e)
 ![Chat App](https://github.com/A-Rafay32/A-Rafay32/assets/113136294/7417daef-0858-4c98-a4ff-8a8297baf8c6)
 
 
 
-![real estate app demo](https://github.com/A-Rafay32/A-Rafay32/assets/113136294/b62d6d33-f2a5-489a-846e-f57a1ee3f99e)
+
 
 
 
