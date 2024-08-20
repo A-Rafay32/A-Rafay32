@@ -55,7 +55,7 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 35px;" />
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Git" width="40" height="40" style="margin-right: 35px;" />
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Git" width="40" height="40" style="margin-right: 35px;" />
 </a> 
 </p> 
