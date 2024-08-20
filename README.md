@@ -1,6 +1,6 @@
 ### Hi, I am Abdul Rafay
 
-A Flutter developer practising cross platform mobile app development who is committed to clean code, elegants UIs and problem solving
+A Full Stack Flutter Developer with expertise in Flutter, Firebase and Backend Technologies including Node and Express.js, honing myself in software architecture, problem solving and DevOps.
 
 Let's connect and discuss how I can help bring your mobile app vision to life!
 
