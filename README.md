@@ -52,7 +52,9 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" style="margin-right: 35px;" /> </a> 
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 35px;" /> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 35px;" />
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Git" width="40" height="40" style="margin-right: 35px;" />
 </a> 
 </p> 
 
