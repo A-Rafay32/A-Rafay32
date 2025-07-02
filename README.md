@@ -1,6 +1,6 @@
 ### Hi, I am Abdul Rafay
 
-A Full Stack Flutter Developer with expertise in Flutter, Firebase and Backend Technologies including Node and Express.js, honing myself in software architecture, problem solving and DevOps.
+A Full Stack Flutter Developer with over 2 years of experience in Flutter, Firebase, and backend technologies including Node.js and Express.js, with a strong focus on software architecture, problem-solving, and DevOps
 
 Let's connect and discuss how I can help bring your mobile app vision to life!
 
